@@ -1,3 +1,5 @@
+# 此文件为ucos源代码os_mbox.c函数解读文档
+
 ## function 1:	接收消息邮箱的消息函数
 
 ​		*ACCEPT MESSAGE FROM MAILBOX*
